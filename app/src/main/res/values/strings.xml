@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Facebook</string>
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+    <string name="radio_other">Other</string>
+    <string name="sign_up">Sign Up</string>
+
+</resources>
